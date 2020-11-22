@@ -2,7 +2,7 @@
   ![GitHub license](https://img.shields.io/badge/license-N/A-blue.svg)
 
   ## Description
-  This is a command-line application that utilizes Node.js to dynamiclaly create a README.md file based on a user's responses to several prompts. 
+  This is a command line application that utilizes Node.js to dynamiclaly create a README.md file based on a user's responses to several prompts. 
   
   ## Table of Contents 
   * [Descripton](#description)
@@ -14,7 +14,7 @@
   * [Questions](#questions)
   
   ## Installation
-  In order to install the necessary npm dependencies, enter "npm install inquirer" in the command-line.
+  In order to install the necessary npm dependencies, enter "npm install inquirer" in the command line.
     
   ## Usage
    
