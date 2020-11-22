@@ -14,19 +14,19 @@
   * [Questions](#questions)
   
   ## Installation
-  none
+  In order to install the necessary npm dependencies, enter "npm install inquirer" in the command-line.
     
   ## Usage
-  You must first install 
+   
   
   ## License
 This project is licensed under N/A.
     
   ## Contributing
-  none
+  Seth Kalback
   
   ## Tests
-  none
+  None
 
   
   ## Questions
