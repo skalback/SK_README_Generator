@@ -30,6 +30,12 @@ const questions = [
       },
       {
         type: "input",
+        message: "Please provide amy necessary instructions on using your project.",
+        name: "usage"
+        
+      },
+      {
+        type: "input",
         message: "Please provide installation instructions for your project.",
         name: "installation"
         

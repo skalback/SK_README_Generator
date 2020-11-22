@@ -7,9 +7,9 @@ function generateMarkdown(data) {
   ${data.description}
   
   ## Table of Contents 
-  *[Descripton](#description)
+  * [Descripton](#description)
   * [Installation](#installation)
-  * [Usage](#usage)
+  * [Usage](#usage) 
   ${generateLicenseLink(data.license)}
   * [Contributing](#contributing)
   * [Tests](#tests)
@@ -27,11 +27,10 @@ function generateMarkdown(data) {
   ${data.contributing}
   
   ## Tests
-  ${data.test}
+  ${data.tests}
 
   
   ## Questions
-  
   For any further questions you may have, please contact me at ${data.email}. 
   Further projects I have worked on are available here: [${data.username}](https://github.com/${data.username}/).
   
@@ -48,7 +47,7 @@ function generateLicenseBadge(license) {
 function generateLicenseLink(license) {
   if (license !== "None") {
     return (
-      `\n* [License](#license)\n`
+      `* [License](#license)`
     )
   }
   return ''
@@ -58,7 +57,6 @@ function generateLicenseSection(license) {
   if (license !== "None") {
     return (
       `## License
-
 This project is licensed under ${license}.`
     )
   }
