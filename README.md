@@ -17,10 +17,10 @@
   In order to install the necessary npm dependencies, enter "npm install inquirer" in the command line.
     
   ## Usage
-   
+  ![Readme-Generator-Demo](https://skalback.github.io/SK_README_Generator/video/ReadMe_Generator.gif) 
   
   ## License
-This project is licensed under N/A.
+  This project is licensed under N/A.
     
   ## Contributing
   Seth Kalback
@@ -32,5 +32,4 @@ This project is licensed under N/A.
   ## Questions
   For any further questions you may have, please contact me at skalback@gmail.com. 
   Further projects I have worked on are available here: [skalback](https://github.com/skalback/).
-  
   
