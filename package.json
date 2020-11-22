@@ -1,0 +1,22 @@
+{
+  "name": "sk_readme_generator",
+  "version": "1.0.0",
+  "description": "readme_generator",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/skalback/SK_README_Generator.git"
+  },
+  "keywords": [
+    "readme"
+  ],
+  "author": "skalback",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/skalback/SK_README_Generator/issues"
+  },
+  "homepage": "https://github.com/skalback/SK_README_Generator#readme"
+}
